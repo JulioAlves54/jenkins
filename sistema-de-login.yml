@@ -1,1 +1,3 @@
 name: "HELM: First charts"
+win_copy: 
+  group_vars:
